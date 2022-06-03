@@ -7,9 +7,14 @@
     "require": {
         "php": "^8.0.2",
         "guzzlehttp/guzzle": "^7.2",
+        "kadegray/imdb-laravel": "^3.0",
         "laravel/framework": "^9.11",
         "laravel/sanctum": "^2.14.1",
-        "laravel/tinker": "^2.7"
+        "laravel/tinker": "^2.7",
+        "livewire/livewire": "^2.10",
+        "maatwebsite/excel": "^3.1",
+        "mediconesystems/livewire-datatables": "dev-master#230de7a95dabc288740e52f7a5225b761a6a4726",
+        "psr/simple-cache": "^1.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
