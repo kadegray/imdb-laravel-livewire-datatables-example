@@ -17,6 +17,7 @@ This project is a simple example of using [Livewire Datatables](https://github.c
 
     ```shell
     cp .env.example .env
+    php artisan key:generate
     ```
 
     Configure the Database environment variables.
